@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HbuyKit (0.1.0)
+  - HbuyKit (1.0.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HbuyKit: 7669b388ad4dbafe7f36529a9846ca6dd3104ede
+  HbuyKit: 803c75d71cc8e42f02a034cfcfaf4e29a7c3c6e6
 
 PODFILE CHECKSUM: 74d7dba448cbf5381ffb878ca2d73ebe7c582ce0
 
