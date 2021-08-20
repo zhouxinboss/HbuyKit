@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HbuyKit_Example' do
+  pod 'HbuyKit', :path => '../'
+
+  target 'HbuyKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
